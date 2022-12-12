@@ -20,6 +20,6 @@
   "homepage": "https://github.com/vertjames/Full-Stack-To-Do-List-App#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
